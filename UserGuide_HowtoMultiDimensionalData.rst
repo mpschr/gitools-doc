@@ -14,7 +14,6 @@ Simple table:
 
 Gitools accepts a matrix format (.tdm) that contains various values per cell - or in other words multi-value matrices. This is especially helpful for browsing genomic data as nowadays study data is being released with expression, mutation, CNA and more data for each patient.
 
-| 
 
 **Files/Data needed**
 
@@ -42,8 +41,10 @@ This is an example with three columns and two rows. Each cell has three data val
 **Browse in Gitools**
 `#  <#N1011C>`__
 
-| 
-
+.. figure:: img/gitools-cell-properties.png
+   :scale: 50 %
+   :alt: map to buried treasure 
+   
 Select the option *File -> Open -> Heatmap*
 
 In the dialog that pops up select as file Filter (the lowest box) one of the following two options:
