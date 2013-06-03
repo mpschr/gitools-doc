@@ -46,83 +46,14 @@ True   True   True
 =====  =====  ====== 
 
 =====  =====  =====  =====  =====
-column  row   expression  CNA   mutation
+col 1  col 2  col 3  col 4  col 5
 =====  =====  =====  =====  =====
-patient_01    gene_A     8.5    0    0 
+pati   gene_A  8.5    0    0 
 =====  =====  =====  =====  =====
 
 example above
 
 
-column
-
-row 
-
-expression
-
-CNA
-
-mutation 
-
- patient\_01
-
- gene\_A
-
- 8.5
-
- 0
-
- 0
-
- patient\_01
-
- gene\_B
-
- 2.3
-
- -2
-
- 0
-
- patient\_02
-
- gene\_A
-
- 6
-
- 0
-
- 1
-
- patient\_02
-
- gene\_B
-
- 5
-
- 0
-
- 0
-
- patient\_03
-
- gene\_A 
-
- 12.1
-
- 2
-
- 0
-
- patient\_03
-
- gene\_B 
-
- 4.9
-
- 0
-
- 1
 
 This is an example with three columns and two rows. Each cell has three data values. **Download this example **\ `**matrix** <url('file:/usr/local/gitools/help/xwiki-enterprise-jetty-hsqldb-2.5/jetty/work/Jetty_0_0_0_0_8888_xwiki__xwiki__snanx9/jTzWWANo/UserGuide.HowtoMultiDimensionalData.multivalue-matrix-example.tdm')>`__\ ** ** as file.
 
