@@ -20,35 +20,16 @@ Gitools accepts a matrix format (.tdm) that contains various values per cell - o
 
 For whatever data you want to browse, you need to prepare a **multivalue-data matrix** (extension .tdm). For genomics data it may look like this:
 
-
-
-=====  =====
-col 1  col 2
-=====  =====
-f1      f2
-adfa adfasfasdfadfs   afsdasf
-=====  =====
-
-
-=====  =====  ====== 
-  A      B    A or B 
-=====  =====  ====== 
-False  False  False 
-True   False  True 
-False  True   True 
-True   True   True 
-=====  =====  ====== 
-
-==========  =======  =====  =====  =====
-col 1       col 2    col 3  col 4  col 5
-==========  =======  =====  =====  =====
-patient_01  gene_A   8.5    0      0
-patient_01  gene_B   2.3    -2     0
-patient_02  gene_A   6      0      1
-patient_02  gene_B   5      0      0
-patient_03  gene_A   12.1   2      0
-patient_03  gene_B   4.9    0      1
-==========  =======  =====  =====  =====
+==========  =======  ===========   =====  =====
+column      row      expression    CNA    mutation
+==========  =======  ===========   =====  =====
+patient_01  gene_A   8.5           0      0
+patient_01  gene_B   2.3           -2     0
+patient_02  gene_A   6             0      1
+patient_02  gene_B   5             0      0
+patient_03  gene_A   12.1          2      0
+patient_03  gene_B   4.9           0      1
+==========  =======  ===========   =====  =====
 
 example above
 
