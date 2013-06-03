@@ -48,7 +48,8 @@ True   True   True
 =====  =====  =====  =====  =====
 col 1  col 2  col 3  col 4  col 5
 =====  =====  =====  =====  =====
-pati   gene_A  8.5    0    0 
+pati   gene   8.5    0    0 
+pati   gene   8.5    0    0 
 =====  =====  =====  =====  =====
 
 example above
