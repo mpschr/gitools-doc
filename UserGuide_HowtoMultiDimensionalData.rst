@@ -33,10 +33,10 @@ False  True   True
 True   True   True 
 =====  =====  ====== 
 
-=====  ==  =========   === ========
-column row expression  CNA  mutation
-----   --  ---------- ----- ---------
-patient_01 gene_A 8.5 0 0 
+======  ====  ==========  ====  ========
+column  row   expression  CNA   mutation
+------  ----  ----------  ----  ---------
+patient_01 gene_A  8.5  0  0 
 =====  ==  =========   === ========
 
 example above
