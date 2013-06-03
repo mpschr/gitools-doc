@@ -2,7 +2,6 @@
 
 **How to prepare matrix files for Gitools using a spreadsheet editor**
 
-superadmin
 
 
 

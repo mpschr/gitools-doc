@@ -2,7 +2,6 @@
 
 **How to use MsigDB gene-sets in Gitools**
 
-superadmin
 
 
 

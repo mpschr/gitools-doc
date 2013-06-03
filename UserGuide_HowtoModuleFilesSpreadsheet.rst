@@ -2,7 +2,6 @@
 
 **How to prepare module files for Gitools using a spreadsheet editor**
 
-superadmin
 
 
 

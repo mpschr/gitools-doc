@@ -2,7 +2,6 @@
 
 **Combination of p-values**
 
-superadmin
 
 
 

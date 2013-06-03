@@ -2,7 +2,6 @@
 
 **Analysis editor**
 
-superadmin
 
 
 

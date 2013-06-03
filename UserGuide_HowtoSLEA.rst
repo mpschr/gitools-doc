@@ -2,7 +2,6 @@
 
 **How to run SLEA in Gitools**
 
-superadmin
 
 
 

@@ -2,7 +2,6 @@
 
 **How to open Gitools results with a spreadsheet editor**
 
-superadmin
 
 
 

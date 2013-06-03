@@ -2,7 +2,6 @@
 
 **How to add multiple gene annotations to heat maps**
 
-superadmin
 
 
 

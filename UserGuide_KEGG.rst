@@ -2,7 +2,6 @@
 
 **KEGG**
 
-superadmin
 
 
 
