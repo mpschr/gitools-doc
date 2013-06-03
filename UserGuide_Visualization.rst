@@ -22,4 +22,4 @@ Gitools is document editor oriented, this means that you can have many documents
 
 There are also editors that simply show information and create other editors. An example of this is the analysis editor that shows all the parameters of an analysis that was performed before and allows to create heatmaps for the data and the results.
 
-There are different kind of editors planned but for the time being the most mature one is the  `heatmap editor <UserGuide_HeatmapEditor.rst'>`__ .
+There are different kind of editors planned but for the time being the most mature one is the  `heatmap editor <UserGuide_HeatmapEditor.rst>`__ .

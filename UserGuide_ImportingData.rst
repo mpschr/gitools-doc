@@ -22,7 +22,7 @@ It is possible to import data from different sources. There are wizards that gui
 
 **Web**
 
-`IntOGen <UserGuide_IntOGen.rst'>`__
+`IntOGen <UserGuide_IntOGen.rst>`__
 
 Experiment transcriptomic alterations
 
@@ -38,17 +38,17 @@ Oncomodules for combinations
 
 Matrix, Modules, Annotations
 
-`http://www.intogen.org <http://www.intogen.org'>`__
+`http://www.intogen.org <http://www.intogen.org>`__
 
-`KEGG <UserGuide_KEGG.rst'>`__
+`KEGG <UserGuide_KEGG.rst>`__
 
 Pathways
 
 Modules, Annotations
 
-`http://www.genome.jp/kegg/ <http://www.genome.jp/kegg/'>`__
+`http://www.genome.jp/kegg/ <http://www.genome.jp/kegg/>`__
 
-`Gene Ontology <UserGuide_GeneOntology.rst'>`__
+`Gene Ontology <UserGuide_GeneOntology.rst>`__
 
 Biological processes
 
@@ -58,9 +58,9 @@ Cellular location
 
  Modules, Annotations
 
-`http://www.geneontology.org/ <http://www.geneontology.org/'>`__
+`http://www.geneontology.org/ <http://www.geneontology.org/>`__
 
-`Biomart Central Portal <UserGuide_Biomart.rst'>`__
+`Biomart Central Portal <UserGuide_Biomart.rst>`__
 
 There are many databases available, some examples are:
 
@@ -76,4 +76,4 @@ COSMIC
 
 Modules, Tables
 
-`http://www.biomart.org <http://www.biomart.org'>`__
+`http://www.biomart.org <http://www.biomart.org>`__

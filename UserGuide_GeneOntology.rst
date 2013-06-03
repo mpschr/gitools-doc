@@ -14,9 +14,9 @@ Christian Pérez-Llamas
 
 | 
 
-The Gene Ontology project is a major bioinformatics initiative with the aim of standardizing the representation of gene and gene product attributes across species and databases. The project provides a controlled vocabulary of terms for describing gene product characteristics. More information about Gene Ontology at  `http://www.geneontology.org/  <http://www.geneontology.org/'>`__ .
+The Gene Ontology project is a major bioinformatics initiative with the aim of standardizing the representation of gene and gene product attributes across species and databases. The project provides a controlled vocabulary of terms for describing gene product characteristics. More information about Gene Ontology at  `http://www.geneontology.org/  <http://www.geneontology.org/>`__ .
 
-In Gitools we allow to retrieve information about Gene Ontology terms for any type of identifiers available in  `Ensembl <http://www.ensembl.org'>`__  database. So you can download Gene Ontology Biological Processes, Molecular Function or Cellular Location modules for gene symbols or for some affymetrix platform probe sets as far as the translation information is available in Ensembl. You can also retrieve this information for any organism available in Ensembl database.
+In Gitools we allow to retrieve information about Gene Ontology terms for any type of identifiers available in  `Ensembl <http://www.ensembl.org>`__  database. So you can download Gene Ontology Biological Processes, Molecular Function or Cellular Location modules for gene symbols or for some affymetrix platform probe sets as far as the translation information is available in Ensembl. You can also retrieve this information for any organism available in Ensembl database.
 
 **Select category and version**
 

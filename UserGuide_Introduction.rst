@@ -44,7 +44,7 @@ Gitools has been conceived by Nuria López-Bigas and the architecture and most o
 
 **Contacting**
 
-Gitools web is at  `https://www.gitools.org <https://www.gitools.org'>`__
+Gitools web is at  `https://www.gitools.org <https://www.gitools.org>`__
 
 There you will find how to subscribe to the newsletter to be updated with the last news regarding Gitools.
 
@@ -64,6 +64,6 @@ It is also important the feedback received from users, specially our early bug r
 
 **License**
 
-The Gitools distribution is licensed according to the liberal Apache License 2.0. See the files in the top-level of the Gitools distribution called LICENSE-2.0.txt and see licenses for accompanying products in the “ lib” directory. See full explanation and FAQs regarding the Apache License at  `http://www.apache.org/licenses/ <http://www.apache.org/licenses/'>`__
+The Gitools distribution is licensed according to the liberal Apache License 2.0. See the files in the top-level of the Gitools distribution called LICENSE-2.0.txt and see licenses for accompanying products in the “ lib” directory. See full explanation and FAQs regarding the Apache License at  `http://www.apache.org/licenses/ <http://www.apache.org/licenses/>`__
 
  

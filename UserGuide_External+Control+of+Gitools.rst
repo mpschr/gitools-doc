@@ -70,7 +70,7 @@ $ http://localhost:50151/load?file =/home/user/matrix-file.tdm&cols =/home/user
 
 **Python**
 
-Python or any other programming environment can make use of the  `Telnet <http://en.wikipedia.org/wiki/Telnet'>`__  internet protocol. See below to understand how python can connect to Gitools and send it a command.
+Python or any other programming environment can make use of the  `Telnet <http://en.wikipedia.org/wiki/Telnet>`__  internet protocol. See below to understand how python can connect to Gitools and send it a command.
 
 import socket
 

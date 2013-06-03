@@ -34,7 +34,7 @@ You can also start an overlap analysis from an opened heatmap by selecting the m
 
 | 
 
-If you select the option **Fill this wizard with an example** all the following wizard pages will be filled with example files and parameters. In some situations the example files will be downloaded automatically before you can go to the next page. By default, when Gitools is installed from the zip file, the examples are already included. But when Gitools is executed directly from the web page the example files have to be downloaded the first time they are used. In that case the files are cached at *$HOME/.gitools/examples*. See details of the example analyses  `here <http://help.gitools.org/xwiki/bin/view/Examples/'>`__ .
+If you select the option **Fill this wizard with an example** all the following wizard pages will be filled with example files and parameters. In some situations the example files will be downloaded automatically before you can go to the next page. By default, when Gitools is installed from the zip file, the examples are already included. But when Gitools is executed directly from the web page the example files have to be downloaded the first time they are used. In that case the files are cached at *$HOME/.gitools/examples*. See details of the example analyses  `here <http://help.gitools.org/xwiki/bin/view/Examples/>`__ .
 
 You can avoid this first presentation page by selecting the option **Don’t show this page next time**.
 
@@ -42,7 +42,7 @@ You can avoid this first presentation page by selecting the option **Don’t sho
 
 | 
 
-If you follow the conventions on file formats explained  `here  <UserGuide_LoadingData.rst'>`__ then simply click on the button [Browse] and select the file containing the data to analyze. The format selector will recognize the extension of the file. If your data file doesn’t have a known file extension then you should specify which is the format of the file.
+If you follow the conventions on file formats explained  `here  <UserGuide_LoadingData.rst>`__ then simply click on the button [Browse] and select the file containing the data to analyze. The format selector will recognize the extension of the file. If your data file doesn’t have a known file extension then you should specify which is the format of the file.
 
 **Selection of the data transformation options**
 

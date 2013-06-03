@@ -42,7 +42,7 @@ Compiling the *source code*
 
 Java Web Start is a technology that allows running Java applications directly from the web. This method is very convenient to evaluate the tool, but when used for daily work and to use big amounts of data is better to install it manually.
 
-In the  `main page of Gitools <http://www.gitools.org'>`__  there is an orange button that says *Launch*. Simply click on it and the application will be downloaded and executed automatically.
+In the  `main page of Gitools <http://www.gitools.org>`__  there is an orange button that says *Launch*. Simply click on it and the application will be downloaded and executed automatically.
 
 It is very easy to use but sometimes the internet navigator doesn’t know how to communicate with Java and launch the application. You can use the following terminal command to launch it:
 
@@ -52,7 +52,7 @@ javaws http://webstart.gitools.org/default/gitools.jnlp
 
 **Installing locally**
 
-You can download the last version of Gitools from  `http://www.gitools.org/download.php <http://www.gitools.org/download.php'>`__
+You can download the last version of Gitools from  `http://www.gitools.org/download.php <http://www.gitools.org/download.php>`__
 
 You will get a zip file that can be installed and executed in any of the Windows, Linux and Mac OS X operating systems.
 
@@ -74,9 +74,9 @@ If you want to be able to execute Gitools commands from the terminal you will ne
 
 **Windows**
 
-You need to have java installed. Go to this website to download and install;  `http://www.java.com/en/download/You <http://www.java.com/en/download/You'>`__
+You need to have java installed. Go to this website to download and install;  `http://www.java.com/en/download/You <http://www.java.com/en/download/You>`__
 
-`http://www.java.com/en/download/You <http://www.java.com/en/download/You'>`__  need to add path of java after set up; go here to do this:  `http://www.java.com/en/download/help/path.xml. <http://www.java.com/en/download/help/path.xml.'>`__  This will tell your computer where to find the java program add these two paths:   **c:\\ java-directory\\ bin**  and **c:\\ java-directory\\ lib**  where c:\\ javadirectory will be the place where java is installed and  where the bin and lib directors are found in the java installation directory. 
+`http://www.java.com/en/download/You <http://www.java.com/en/download/You>`__  need to add path of java after set up; go here to do this:  `http://www.java.com/en/download/help/path.xml. <http://www.java.com/en/download/help/path.xml.>`__  This will tell your computer where to find the java program add these two paths:   **c:\\ java-directory\\ bin**  and **c:\\ java-directory\\ lib**  where c:\\ javadirectory will be the place where java is installed and  where the bin and lib directors are found in the java installation directory. 
 
 You need to add the path of the Gitools bin directory also  in order to run the Gitools in the same path variable ( just like you added the other two paths) add ** c:\\ gitoolsdirectory\\ bin** and **c:\\ gitoolsdirectory\\ lib**  to the path variable. All path variables must be added to existing path (be careful not to delete anything which is already there) and separate each new path with a semicolon.  The new path can be added to the front of the existing path followed by a semicolon to separte other existing entries.
 
@@ -154,4 +154,4 @@ export GITOOLS\_JAVA\_OPTS =”-Xmx2g”
 
 **Source code**
 
-Go  `here <https://bg.upf.edu/forge/projects/gitools/wiki'>`__  to know how to download the source code and compile it.
+Go  `here <https://bg.upf.edu/forge/projects/gitools/wiki>`__  to know how to download the source code and compile it.

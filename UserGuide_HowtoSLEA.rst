@@ -30,17 +30,17 @@ SLEA is a method to analyse the transcriptional status of gene modules (gene set
 
 **Files needed**
 
-**Normalized expression matrices**. See for example  `”expression matrices used in Gundem and Lopez-Bigas 2012” <http://bg.upf.edu/slea/datasets/experiments'>`__  which contains median-centered log-intensity values divided by standard deviation for 12 datasets.
+**Normalized expression matrices**. See for example  `”expression matrices used in Gundem and Lopez-Bigas 2012” <http://bg.upf.edu/slea/datasets/experiments>`__  which contains median-centered log-intensity values divided by standard deviation for 12 datasets.
 
-**Clinical information of samples** if available. See for example  `”sample information for datasets used in Gundem and Lopez-Bigas 2012” <http://bg.upf.edu/slea/datasets/samples'>`__
+**Clinical information of samples** if available. See for example  `”sample information for datasets used in Gundem and Lopez-Bigas 2012” <http://bg.upf.edu/slea/datasets/samples>`__
 
-**Gene modules**. See for example  `modules used in Gundem and Lopez-Bigas 2012 <UserGuide_ImportingData.rst'>`__  of the user guide for further information on how to import gene modules with Gitools.
+**Gene modules**. See for example  `modules used in Gundem and Lopez-Bigas 2012 <UserGuide_ImportingData.rst>`__  of the user guide for further information on how to import gene modules with Gitools.
 
 | 
 
 **Perform an enrichment analysis with Gitools**
 
-See  `this chapter <UserGuide_Enrichment.rst'>`__  for details on how to perform enrichment analysis
+See  `this chapter <UserGuide_Enrichment.rst>`__  for details on how to perform enrichment analysis
 
 Select a normalized expression matrix as data file (eg. breast-gse4922-gpl96.cdm.gz).
 
@@ -52,7 +52,7 @@ Select zscore statistical test. Write 100 in sampling size for a quick test of t
 
 Give a name to the analysis. Select a directory where to safe it and click Finish.
 
-If you have a memory problem, see memory configuration in  `this chapter <UserGuide_Installation.rst'>`__  to increase the memory allocated to run Gitools.
+If you have a memory problem, see memory configuration in  `this chapter <UserGuide_Installation.rst>`__  to increase the memory allocated to run Gitools.
 
 | 
 
@@ -60,6 +60,6 @@ If you have a memory problem, see memory configuration in  `this chapter <UserG
 
 The results are presented in the form of interactive heatmaps.
 
-See  `Gitools Help <http://help.gitools.org'>`__  to learn how to explore the results
+See  `Gitools Help <http://help.gitools.org>`__  to learn how to explore the results
 
 | 

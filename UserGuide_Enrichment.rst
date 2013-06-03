@@ -44,7 +44,7 @@ You can avoid this first presentation page by selecting the option **Don’t sho
 
 | 
 
-If you follow the conventions on file formats explained  `here <UserGuide_LoadingData.rst'>`__  then simply click on the button [Browse] and select the file containing the data to analyze. The format selector will recognize the extension of the file. If your data file doesn’t have a known file extension then you should specify which is the format of the file.
+If you follow the conventions on file formats explained  `here <UserGuide_LoadingData.rst>`__  then simply click on the button [Browse] and select the file containing the data to analyze. The format selector will recognize the extension of the file. If your data file doesn’t have a known file extension then you should specify which is the format of the file.
 
 **Selection of the data transformation options**
 
@@ -72,11 +72,11 @@ There are different types of statistical tests that can be used, in this page th
 
 Currently there are three different statistical tests implemented for enrichment analysis in Gitools:
 
-`Binomial test <http://en.wikipedia.org/wiki/Binomial_test'>`__
+`Binomial test <http://en.wikipedia.org/wiki/Binomial_test>`__
 
-`Fisher’s exact test <http://en.wikipedia.org/wiki/Fisher's_exact_test'>`__
+`Fisher’s exact test <http://en.wikipedia.org/wiki/Fisher's_exact_test>`__
 
-`Z-score test <http://en.wikipedia.org/wiki/Z-test'>`__  with  `bootstrapping <http://en.wikipedia.org/wiki/Bootstrapping_(statistics)')>`__
+`Z-score test <http://en.wikipedia.org/wiki/Z-test>`__  with  `bootstrapping <http://en.wikipedia.org/wiki/Bootstrapping_(statistics)')>`__
 
 As multiple tests are performed it is important to adjust the p-values. The method for adjusting the p-values can be chosen in the **Multiple test correction** option.
 
