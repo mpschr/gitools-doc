@@ -2,9 +2,6 @@
 
 **HowtoMultiDimensionalData**
 
-Michael P Schroeder
-
-
 
 **Table of Contents**
 
@@ -12,9 +9,18 @@ Michael P Schroeder
 
 `Browse in Gitools <#N1011C>`__  
 
-| 
+Simple table:
 
-| 
+=====  =====  ====== 
+   Inputs     Output 
+------------  ------ 
+  A      B    A or B 
+=====  =====  ====== 
+False  False  False 
+True   False  True 
+False  True   True 
+True   True   True 
+=====  =====  ====== 
 
 Gitools accepts a matrix format (.tdm) that contains various values per cell - or in other words multi-value matrices. This is especially helpful for browsing genomic data as nowadays study data is being released with expression, mutation, CNA and more data for each patient.
 
