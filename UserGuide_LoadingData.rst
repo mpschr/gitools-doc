@@ -187,4 +187,4 @@ There are two ways to prepare data for Gitools:
 
 **Prepare your own data**. The easiest way to create data is using for example a program like *Excel* or *OpenOffice* and then export to tabulated text file. See the  `How to sections <UserGuide_HowtoModuleFilesSpreadsheet.rst'>`__  with spreadsheet editors.
 
-**Import data**. Gitools allows retrieving data from different external data sources like *Biomart*, *IntOGen*, *Ensembl* or *KEGG*. See the  `importing data section <UserGuide_ImportingData.rst'>`__  for details.
+**Import data**. Gitools allows retrieving data from different external data sources like *Biomart*, *IntOGen*, *Ensembl* or *KEGG*. See the  `importing data section <UserGuide_ImportingData.rst'>`_  for details.
