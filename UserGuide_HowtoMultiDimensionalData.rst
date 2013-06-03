@@ -10,7 +10,7 @@ Michael P Schroeder
 
 `Files/Data needed <#N1003A>`__  `#  <#N1003A>`__
 
-`Browse in Gitools <#N1011C>`__  `#  <#N1011C>`__
+`Browse in Gitools <#N1011C>`__  
 
 | 
 
@@ -99,6 +99,7 @@ This is an example with three columns and two rows. Each cell has three data val
 | 
 
 **Browse in Gitools**
+`#  <#N1011C>`__
 
 | 
 
