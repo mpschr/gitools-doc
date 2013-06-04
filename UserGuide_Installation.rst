@@ -1,5 +1,4 @@
 
-
 **Installation**
 
 
@@ -9,13 +8,12 @@ There are different ways to get Gitools running:
 - *Installing locally* and executing it
 - Compiling the *source code*
 
-`Java Web Start <#HJavaWebStart>`__
+Therefore, see the following chapters:
 
-`Installing locally <#HInstallinglocally>`__
-
-`Memory configuration <#HMemoryconfiguration>`__
-
-`Source code <#HSourcecode>`__
+- `Java Web Start <#JavaWebStart>`__
+- `Installing locally <#Installinglocally>`__
+- `Memory configuration <#Memoryconfiguration>`__
+- `Source code <#Sourcecode>`__
 
 
 
