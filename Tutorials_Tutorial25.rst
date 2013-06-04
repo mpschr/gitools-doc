@@ -1,11 +1,15 @@
-| 
-
-**Tutorial 2.5: Overlapping analysis**
 
 
+===================================
+Tutorial 2.5: Overlapping analysis
+===================================
 
 
-**Table of Contents**
+
+
+===================================
+Table of Contents
+===================================
 
 `Compare the overlapping of significantly up-regulated genes in our experiment and in other lung experiments imported from IntOGen. <#N10037>`__  `#  <#N10037>`__
 
@@ -19,17 +23,21 @@
 
 `Explore the results <#N100AC>`__  `#  <#N100AC>`__
 
-| 
 
-| 
 
-| 
 
-**Compare the overlapping of significantly up-regulated genes in our experiment and in other lung experiments imported from IntOGen.**
 
-| 
 
-**Files needed**
+
+===================================
+Compare the overlapping of significantly up-regulated genes in our experiment and in other lung experiments imported from IntOGen.
+===================================
+
+
+
+===================================
+Files needed
+===================================
 
 The files needed for this tutorial are the same as the ones for tutorial 2.4.
 
@@ -39,9 +47,11 @@ The files needed for this tutorial are the same as the ones for tutorial 2.4.
 
 `intogen-lung-upreg-rows.tsv.gz <url('file:/usr/local/gitools/help/xwiki-enterprise-jetty-hsqldb-2.5/jetty/work/Jetty_0_0_0_0_8888_xwiki__xwiki__snanx9/PVxzDkGf/Tutorials.Tutorial25.intogen-lung-upreg-rows.tsv.gz')>`__ : file with annotations of rows (genes) for the matrix above
 
-| 
 
-**Run overlapping analysis**
+
+===================================
+Run overlapping analysis
+===================================
 
 See  `this chapter <UserGuide_Overlaps.rst>`__  for details on how to perform overlapping analysis
 
@@ -55,22 +65,28 @@ In Configure Overlapping Options, select: Replace empty values by 0. Apply to co
 
 Select a destination folder and file name and click Finish.
 
-| 
 
-**Change labels of rows and columns**
+
+===================================
+Change labels of rows and columns
+===================================
 
 In properties/columns, select the file “intogen-lung-upreg-columns.tsv.gz” and choose “authors” and “year” as label to show in the columns instead of the id of the experiment.
 
 Do the same for rows.
 
-| 
 
-**Change the value to be displayed in the heatmap**
+
+===================================
+Change the value to be displayed in the heatmap
+===================================
 
 In properties/cells, select the value “Row only proportions” to show in colors the proportion of genes in the experiment of the column that are up-regulated in the experiment of the row.
 
-| 
 
-**Explore the results**
 
-| 
+===================================
+Explore the results
+===================================
+
+

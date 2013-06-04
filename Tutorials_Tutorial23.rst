@@ -1,11 +1,15 @@
-| 
-
-**Tutorial 2.3. Identifying significantly upregulated genes**
 
 
+===================================
+Tutorial 2.3. Identifying significantly upregulated genes
+===================================
 
 
-**Table of Contents**
+
+
+===================================
+Table of Contents
+===================================
 
 `Run Oncodrive to identify the genes that are significantly up-regulated taking into account a set of tumour samples <#N10037>`__  `#  <#N10037>`__
 
@@ -17,23 +21,29 @@
 
 `Explore the results <#N100B0>`__  `#  <#N100B0>`__
 
-| 
 
-| 
 
-| 
 
-**Run Oncodrive to identify the genes that are significantly up-regulated taking into account a set of tumour samples**
 
-| 
 
-**Files needed**
+
+===================================
+Run Oncodrive to identify the genes that are significantly up-regulated taking into account a set of tumour samples
+===================================
+
+
+
+===================================
+Files needed
+===================================
 
 `gse19188\_l2r-cancer-vs-normal.cdm.gz <http://www.gitools.org/tutorials/data/gse19188_l2r-cancer-vs-normal.cdm.gz>`__ : which contains log2 ratios of tumour samples versus normal controls.
 
-| 
 
-**Run Oncodrive analysis**
+
+===================================
+Run Oncodrive analysis
+===================================
 
 See  `this chapter <UserGuide_Oncodrive.rst>`__  for details on how to run an Oncodrive analysis
 
@@ -49,9 +59,11 @@ Give a name to the analysis. Select a directory where to save it and click Finis
 
 In the analysis details tab, click on “heatmap” under “Results” to view the heatmap of the results.
 
-| 
 
-**Import annotations for probes using Gitools**
+
+===================================
+Import annotations for probes using Gitools
+===================================
 
 Import Ensembl gene ids, symbol and description for probes in the Affymetrix HG U133 Plus 2 platform.
 
@@ -73,8 +85,10 @@ Bring up the header for “Associated Gene name” and sort by this label.
 
 Alternatively, you can download the Affymetrix HG U133 Plus 2 ids from here:\ `homo\_sapiens\_affy\_u133\_plus\_2\_annotations.tsv <url('file:/usr/local/gitools/help/xwiki-enterprise-jetty-hsqldb-2.5/jetty/work/Jetty_0_0_0_0_8888_xwiki__xwiki__snanx9/D4FgwkCf/Tutorials.Tutorial23.homosapiensaffyu133plus2annotations.tsv')>`__
 
-| 
 
-**Explore the results**
 
-| 
+===================================
+Explore the results
+===================================
+
+

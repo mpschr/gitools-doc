@@ -1,16 +1,20 @@
-| 
 
-**How To**
+
+===================================
+How To
+===================================
 
 Michael P Schroeder
 
 
 
-**Table of Contents**
+===================================
+Table of Contents
+===================================
 
-| 
 
-| 
+
+
 
 Here, you will find varied hints on common and less commonly used features of Gitools that shall help you to make the most of your analysis using Gitools.
 

@@ -1,11 +1,15 @@
-| 
-
-**Tutorial 2.2. Expression profiles correlations**
 
 
+===================================
+Tutorial 2.2. Expression profiles correlations
+===================================
 
 
-**Table of Contents**
+
+
+===================================
+Table of Contents
+===================================
 
 `Compare the expression profile of samples using correlations <#N10037>`__  `#  <#N10037>`__
 
@@ -17,17 +21,21 @@
 
 `Explore the results <#N10098>`__  `#  <#N10098>`__
 
-| 
 
-| 
 
-| 
 
-**Compare the expression profile of samples using correlations**
 
-| 
 
-**Files needed:**
+
+===================================
+Compare the expression profile of samples using correlations
+===================================
+
+
+
+===================================
+Files needed:
+===================================
 
 We will need the same files as in the tutorial 2.1:
 
@@ -35,9 +43,11 @@ We will need the same files as in the tutorial 2.1:
 
 `gse19188\_sample\_annotations.txt <http://www.gitools.org/tutorials/data/gse19188_sample_annotations.txt>`__ : which contains the clinical annotation of samples
 
-| 
 
-**Perform correlation analysis**
+
+===================================
+Perform correlation analysis
+===================================
 
 See  `this chapter <UserGuide_Correlations.rst>`__  for details on how to perform correlation analysis
 
@@ -49,9 +59,11 @@ Apply correlation to columns (as we want to correlate samples)
 
 Give a name to the analysis. Select a directory where to safe it and click Finish.
 
-| 
 
-**Color the columns and rows according to the histology label of the samples and order them**
+
+===================================
+Color the columns and rows according to the histology label of the samples and order them
+===================================
 
 In the analysis details tab, click on “heatmap” under “Results” to view the heatmap of the results.
 
@@ -65,8 +77,10 @@ Order the samples by histology by selecting Data>Sort>Sort by label and select c
 
 Change the width and height of the cells in properties/cells to be able to see all the samples in the window and uncheck the options to show the columns and row grid.
 
-| 
 
-**Explore the results**
 
-| 
+===================================
+Explore the results
+===================================
+
+

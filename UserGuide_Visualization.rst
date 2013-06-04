@@ -1,21 +1,25 @@
-| 
-
-**Visualization**
 
 
+===================================
+Visualization
+===================================
 
 
-**Table of Contents**
 
-| 
 
-| 
+===================================
+Table of Contents
+===================================
+
+
+
+
 
 The main window of Gitools is divided in two parts: the left part or the contextual panels and the right part or editors panel.
 
 On the left there are some tabs that show contextual information and configuration of the elements selected on the current editor on the right. On the right you will have a tab for each document that is opened.
 
-| 
+
 
 Gitools is document editor oriented, this means that you can have many documents opened at the same time, edit them and save changes. For each kind of document you would have at least one type of editor, so for example a matrix can be visualized with a heatmap.
 

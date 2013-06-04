@@ -1,11 +1,15 @@
-| 
-
-**How to run SLEA in Gitools**
 
 
+===================================
+How to run SLEA in Gitools
+===================================
 
 
-**Table of Contents**
+
+
+===================================
+Table of Contents
+===================================
 
 `Sample Level Enrichment Analysis (SLEA) using Gitools <#N10037>`__  `#  <#N10037>`__
 
@@ -15,19 +19,23 @@
 
 `Explore the results <#N100AC>`__  `#  <#N100AC>`__
 
-| 
 
-| 
 
-| 
 
-**Sample Level Enrichment Analysis (SLEA) using Gitools**
+
+
+
+===================================
+Sample Level Enrichment Analysis (SLEA) using Gitools
+===================================
 
 SLEA is a method to analyse the transcriptional status of gene modules (gene sets) per sample in a transcriptomic dataset. The results are presented in the form of interactive heatmaps which facilitates their interpretation. It can be used to identify tumor subtypes, correlate molecular features with clinical features and study relationship between modules.
 
-| 
 
-**Files needed**
+
+===================================
+Files needed
+===================================
 
 **Normalized expression matrices**. See for example  `”expression matrices used in Gundem and Lopez-Bigas 2012” <http://bg.upf.edu/slea/datasets/experiments>`__  which contains median-centered log-intensity values divided by standard deviation for 12 datasets.
 
@@ -35,9 +43,11 @@ SLEA is a method to analyse the transcriptional status of gene modules (gene set
 
 **Gene modules**. See for example  `modules used in Gundem and Lopez-Bigas 2012 <UserGuide_ImportingData.rst>`__  of the user guide for further information on how to import gene modules with Gitools.
 
-| 
 
-**Perform an enrichment analysis with Gitools**
+
+===================================
+Perform an enrichment analysis with Gitools
+===================================
 
 See  `this chapter <UserGuide_Enrichment.rst>`__  for details on how to perform enrichment analysis
 
@@ -53,12 +63,14 @@ Give a name to the analysis. Select a directory where to safe it and click Finis
 
 If you have a memory problem, see memory configuration in  `this chapter <UserGuide_Installation.rst>`__  to increase the memory allocated to run Gitools.
 
-| 
 
-**Explore the results**
+
+===================================
+Explore the results
+===================================
 
 The results are presented in the form of interactive heatmaps.
 
 See  `Gitools Help <http://help.gitools.org>`__  to learn how to explore the results
 
-| 
+

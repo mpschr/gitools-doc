@@ -1,15 +1,19 @@
-| 
-
-**How to use MsigDB gene-sets in Gitools**
 
 
+===================================
+How to use MsigDB gene-sets in Gitools
+===================================
 
 
-**Table of Contents**
 
-| 
 
-| 
+===================================
+Table of Contents
+===================================
+
+
+
+
 
 The Molecular Signatures Database (  `MSigDB <http://www.broadinstitute.org/gsea/msigdb/>`__ ) contains an extensive collection of gene sets that can be downloaded and used in Gitools. To do that follow these steps:
 

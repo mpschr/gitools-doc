@@ -1,24 +1,30 @@
-| 
 
-**Tutorial 6.1. Loading and annotating a multi-value matrix**
+
+===================================
+Tutorial 6.1. Loading and annotating a multi-value matrix
+===================================
 
 Michael P Schroeder
 
 
 
-**Table of Contents**
+===================================
+Table of Contents
+===================================
 
 `Loading and annotating a multi-value matrix <#N1003B>`__  `#  <#N1003B>`__
 
 `Files needed: <#N1007D>`__  `#  <#N1007D>`__
 
-| 
 
-| 
 
-| 
 
-**Loading and annotating a multi-value matrix**
+
+
+
+===================================
+Loading and annotating a multi-value matrix
+===================================
 
 In this video tutorial you can learn the following things:
 
@@ -32,9 +38,11 @@ How to load and create annotation for your for the heatmap.
 
 The video on YouTube:  `http://www.youtube.com/embed/a85IY9CijNU <http://www.youtube.com/embed/a85IY9CijNU>`__
 
-| 
 
-**Files needed:**
+
+===================================
+Files needed:
+===================================
 
 `dit <http://help.gitools.org/xwiki/bin/create/..%2F..%2F..%2F..%2F..%2Fbin%2Fcreate%2F..%252F..%252F..%252F..%252F.%2F%252Fbin%252Fedit%252FTutorials%252FTutorial41%253Fsection%253D2%3Fparent%3Dxwiki%253ATutorials/Tutorial42?parent=xwiki%3ATutorials.Tutorial61>`__
 

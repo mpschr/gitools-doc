@@ -1,9 +1,13 @@
-| 
-
-**HowtoMultiDimensionalData**
 
 
-**Table of Contents**
+===================================
+HowtoMultiDimensionalData
+===================================
+
+
+===================================
+Table of Contents
+===================================
 
 `Files/Data needed <#N1003A>`__  `#  <#N1003A>`__
 
@@ -15,7 +19,9 @@ Simple table:
 Gitools accepts a matrix format (.tdm) that contains various values per cell - or in other words multi-value matrices. This is especially helpful for browsing genomic data as nowadays study data is being released with expression, mutation, CNA and more data for each patient.
 
 
-**Files/Data needed**
+===================================
+Files/Data needed
+===================================
 
 For whatever data you want to browse, you need to prepare a **multivalue-data matrix** (extension .tdm). For genomics data it may look like this:
 
@@ -36,9 +42,11 @@ example above
 
 This is an example with three columns and two rows. Each cell has three data values. **Download this example **\ `**matrix** <url('file:/usr/local/gitools/help/xwiki-enterprise-jetty-hsqldb-2.5/jetty/work/Jetty_0_0_0_0_8888_xwiki__xwiki__snanx9/jTzWWANo/UserGuide.HowtoMultiDimensionalData.multivalue-matrix-example.tdm')>`__\ ** ** as file.
 
-| 
 
-**Browse in Gitools**
+
+===================================
+Browse in Gitools
+===================================
 `#  <#N1011C>`__
 
 .. image:: img/gitools-cell-properties.png

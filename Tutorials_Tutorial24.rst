@@ -1,11 +1,15 @@
-| 
-
-**Tutorial 2.4: Compare and combine experiments**
 
 
+===================================
+Tutorial 2.4: Compare and combine experiments
+===================================
 
 
-**Table of Contents**
+
+
+===================================
+Table of Contents
+===================================
 
 `Compare and combine the significantly up-regulated genes in our experiment and in other lung experiments imported from IntOGen <#N10037>`__  `#  <#N10037>`__
 
@@ -19,17 +23,21 @@
 
 `Explore the results <#N100BF>`__  `#  <#N100BF>`__
 
-| 
 
-| 
 
-| 
 
-**Compare and combine the significantly up-regulated genes in our experiment and in other lung experiments imported from IntOGen**
 
-| 
 
-**Files needed**
+
+===================================
+Compare and combine the significantly up-regulated genes in our experiment and in other lung experiments imported from IntOGen
+===================================
+
+
+
+===================================
+Files needed
+===================================
 
 `intogen\_lung\_upreg\_plus\_gse19188.cdm.gz <http://www.gitools.org/tutorials/data/intogen_lung_upreg_plus_gse19188.cdm.gz>`__ : matrix file containing p-values for upregulation per gene for 11 experiments imported from IntOGen and the experiment from Hou et al. that we analyzed in the previous tutorial.
 
@@ -37,17 +45,21 @@
 
 `intogen\_lung\_upreg-rows.tsv.gz <http://www.gitools.org/tutorials/data/intogen_lung_upreg-rows.tsv.gz>`__ : file with annotations of rows (genes) for the matrix above
 
-| 
 
-**Import p-value matrix from IntOGen for up-regulation in various independent lung cancer experiments.**
+
+===================================
+Import p-value matrix from IntOGen for up-regulation in various independent lung cancer experiments.
+===================================
 
 For this tutorial, we provide the matrix file containing p-values for these lung experiments plus the result of the oncodrive analysis in tutorial 2.3, after mapping probes to genes, see files above.
 
 See  `this chapter <UserGuide_IntOGen.rst>`__  of the user guide to learn how to import data from IntOGen.
 
-| 
 
-**Open heatmap and change scale and labels**
+
+===================================
+Open heatmap and change scale and labels
+===================================
 
 File>Open>Heatmap… and select the file intogen\_lung\_upreg\_plus\_gse19188.cdm.gz. 
 
@@ -59,11 +71,13 @@ Change the labels of rows: In properties/rows, select the file “intogen\_lung\
 
 Select all the rows and sort to have the most significantly up-regulated genes in the various lung cancer experiments on top.
 
-| 
 
-| 
 
-**Combine**
+
+
+===================================
+Combine
+===================================
 
 To combine the p-values of all the lung cancer experiments, select Analysis>Combinations. 
 
@@ -75,8 +89,10 @@ Do not select any file for sets of columns or rows to combine, this way we will 
 
 Click Next and Finish.
 
-| 
 
-**Explore the results**
 
-| 
+===================================
+Explore the results
+===================================
+
+

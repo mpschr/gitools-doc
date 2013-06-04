@@ -1,11 +1,15 @@
-| 
-
-**Tutorial 2.1. Sample Level Enrichment Analysis (SLEA) with KEGG pathways**
 
 
+===================================
+Tutorial 2.1. Sample Level Enrichment Analysis (SLEA) with KEGG pathways
+===================================
 
 
-**Table of Contents**
+
+
+===================================
+Table of Contents
+===================================
 
 `Identify pathways which genes are differentially expressed in various groups of samples <#N10037>`__  `#  <#N10037>`__
 
@@ -19,27 +23,33 @@
 
 `Explore the results <#N100E4>`__  `#  <#N100E4>`__
 
-| 
 
-| 
 
-| 
 
-**Identify pathways which genes are differentially expressed in various groups of samples**
+
+
+
+===================================
+Identify pathways which genes are differentially expressed in various groups of samples
+===================================
 
 We will use a data set containing 156 non-small cell lung carcinomas and adjacent normal lung tissue sample from  `Hou et al 2010 <http://www.plosone.org/article/info:doi/10.1371/journal.pone.0010312>`__ .
 
-| 
 
-**Files needed**
+
+===================================
+Files needed
+===================================
 
 `gse19188\_median-centered.cdm.gz <http://www.gitools.org/tutorials/data/gse19188_median-centered.cdm.gz>`__  which contains median-centered log-intensity values divided by standard deviation for 156 samples.
 
 `gse19188\_sample\_annotations.txt <http://www.gitools.org/tutorials/data/gse19188_sample_annotations.txt>`__  which contains the clinical annotation of samples
 
-| 
 
-**Import human KEGG pathway modules using Gitools**
+
+===================================
+Import human KEGG pathway modules using Gitools
+===================================
 
 Import human KEGG pathways. See  `this chapter <UserGuide_KEGG.rst>`__  of the user guide for further guidance.
 
@@ -49,9 +59,11 @@ Alternatively download the KEGG pathways module map and annotations from here:\ 
 
 `homo\_sapiens\_\_kegg\_pathways\_\_ensembl\_affy\_hg\_u133\_plus\_2\_annotations.tsv <http://www.gitools.org/tutorials/data/homo_sapiens__kegg_pathways__ensembl_affy_hg_u133_plus_2_annotations.tsv.gz>`__
 
-| 
 
-**Perform an enrichment analysis with Gitools**
+
+===================================
+Perform an enrichment analysis with Gitools
+===================================
 
 See  `this chapter <UserGuide_Enrichment.rst>`__  for details on how to perform enrichment analysis
 
@@ -67,9 +79,11 @@ Give a name to the analysis. Select a directory where to safe it and click Finis
 
 If you have a memory problem, see memory configuration in (  `Installation Guide <UserGuide_Installation.rst>`__ ) to increase the memory allocated to run Gitools.
 
-| 
 
-**Use annotations for pathways and annotation colors for samples**
+
+===================================
+Use annotations for pathways and annotation colors for samples
+===================================
 
 In the analysis details tab, click on “heatmap” under “Results” to view the heatmap of the results.
 
@@ -85,8 +99,10 @@ Sort the samples by histology by selecting Data>Sort>Sort by label and select co
 
 Change the width of the cells in properties/cells to be able to see all the samples in the window and uncheck the option to show the columns grid.
 
-| 
 
-**Explore the results**
 
-| 
+===================================
+Explore the results
+===================================
+
+

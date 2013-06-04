@@ -1,24 +1,30 @@
-| 
 
-**Tutorial 6.4: Sample Level Enrichment Analysis (SLEA)**
+
+===================================
+Tutorial 6.4: Sample Level Enrichment Analysis (SLEA)
+===================================
 
 Nuria Lopez-Bigas
 
 
 
-**Table of Contents**
+===================================
+Table of Contents
+===================================
 
 `Concept <#N1003B>`__  `#  <#N1003B>`__
 
 `How to use Gitools for this task <#N10070>`__  `#  <#N10070>`__
 
-| 
 
-| 
 
-| 
 
-**Concept**
+
+
+
+===================================
+Concept
+===================================
 
 Cancer is by nature very heterogeneous: The genomic alterations of one cancer patient can be very different compared with another patient. This is the case for different cancer types AND more importantly for this tutorial cancer samples can be very heterogenous although they are from the same tumor site. For this reason it is important to obtain detailed clinical information about a sample.
 
@@ -26,9 +32,11 @@ Having a the expression data of a cohort of patients, it is not very convenient 
 
 To see how it is done, watch the  `video tutorial <http://www.youtube.com/watch?v=EADA6TsGrVw>`__    and/or read the instructions below
 
-| 
 
-**How to use Gitools for this task**
+
+===================================
+How to use Gitools for this task
+===================================
 
 Make sure you have the data provided in  `step 1 <Tutorials/Tutorial61>`__  of this use case. If you don’t have it yet, download this  ` zip-file <http://www.gitools.org/tutorials/data_gitools.rst_case_study_6.zip>`__ , which includes:
 

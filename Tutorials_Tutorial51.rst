@@ -1,11 +1,15 @@
-| 
-
-**Tutorial 5.1. Regulatory Modules enrichment analysis**
 
 
+===================================
+Tutorial 5.1. Regulatory Modules enrichment analysis
+===================================
 
 
-**Table of Contents**
+
+
+===================================
+Table of Contents
+===================================
 
 `Study the misregulation in different cancer types of modules derived from binding experiments such as ChIP-sequencing <#N10037>`__  `#  <#N10037>`__
 
@@ -17,15 +21,17 @@
 
 `Explore the results <#N100B9>`__  `#  <#N100B9>`__
 
-| 
 
-| 
 
-| 
 
-**Study the misregulation in different cancer types of modules derived from binding experiments such as ChIP-sequencing**
 
-| 
+
+
+===================================
+Study the misregulation in different cancer types of modules derived from binding experiments such as ChIP-sequencing
+===================================
+
+
 
 **Files needed:  **\ `**dit** <http://help.gitools.org/xwiki/bin/create/..%2F..%2F..%2F..%2F..%2Fbin%2Fcreate%2F..%252F..%252F..%252F..%252F.%2F%252Fbin%252Fedit%252FTutorials%252FTutorial41%253Fsection%253D2%3Fparent%3Dxwiki%253ATutorials/Tutorial42?parent=xwiki%3ATutorials.Tutorial51>`__
 
@@ -33,9 +39,11 @@ Significantly down-regulated genes in each tumour morphology type from IntOGen, 
 
 Set of genes (module) experimentally found to be bound by specific transcription factors. We will use the set from  `Boyer et al 2005 <http://www.sciencedirect.com/science/article/pii/S0092867405008251>`__  (Supplementary Table 3), which has been already mapped into Ensembl gene IDs for this tutorial  `here <url('file:/usr/local/gitools/help/xwiki-enterprise-jetty-hsqldb-2.5/jetty/work/Jetty_0_0_0_0_8888_xwiki__xwiki__snanx9/eK8qnQ17/Tutorials.Tutorial51.boyer.tcm')>`__ .
 
-| 
 
-**Perform enrichment analysis**
+
+===================================
+Perform enrichment analysis
+===================================
 
 See  `this tutorial <url('file:/usr/local/gitools/help/xwiki-enterprise-jetty-hsqldb-2.5/jetty/work/Jetty_0_0_0_0_8888_xwiki__xwiki__snanx9/eK8qnQ17/Tutorials.WebHome.tutorial13runenrichmentIntOGenKEGG.pdf')>`__  for details on how to perform enrichment analysis.
 
@@ -49,9 +57,11 @@ Give a name to the analysis. Select a directory where to save it and click Finis
 
 If you have a memory problem, see memory configuration in (  `Installation  <UserGuide_Installation.rst>`__ ) to increase the memory allocated to run Gitools.
 
-| 
 
-**Use annotations for cancer types**
+
+===================================
+Use annotations for cancer types
+===================================
 
 In the analysis details tab, click on “heatmap” under “Results” to view the heatmap of the results.
 
@@ -61,8 +71,10 @@ Sort the samples by cancer type by selecting Data>Sort>Sort by label and select 
 
 Change the width of the cells in properties/cells to be able to see all the samples in the window and adapt the header size in the columns.
 
-| 
 
-**Explore the results**
 
-| 
+===================================
+Explore the results
+===================================
+
+

@@ -1,25 +1,37 @@
-| 
-
-**Importing Data**
 
 
+===================================
+Importing Data
+===================================
 
 
-**Table of Contents**
 
-| 
 
-| 
+===================================
+Table of Contents
+===================================
+
+
+
+
 
 It is possible to import data from different sources. There are wizards that guides the retrieval of data step by step.
 
-**Source **
+===================================
+Source 
+===================================
 
-**Data **
+===================================
+Data 
+===================================
 
-**Data types **
+===================================
+Data types 
+===================================
 
-**Web**
+===================================
+Web
+===================================
 
 `IntOGen <UserGuide_IntOGen.rst>`__
 
@@ -71,7 +83,7 @@ Reactome
 
 COSMIC
 
-| 
+
 
 Modules, Tables
 

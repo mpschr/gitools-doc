@@ -1,11 +1,15 @@
-| 
-
-**Tutorial 4.2. Correlation of expression patterns in different tissues**
 
 
+===================================
+Tutorial 4.2. Correlation of expression patterns in different tissues
+===================================
 
 
-**Table of Contents**
+
+
+===================================
+Table of Contents
+===================================
 
 `Compare the expression profile of samples using correlations <#N10037>`__  `#  <#N10037>`__
 
@@ -17,17 +21,21 @@
 
 `Explore the results <#N100A9>`__  `#  <#N100A9>`__
 
-| 
 
-| 
 
-| 
 
-**Compare the expression profile of samples using correlations**
 
-| 
 
-**Files needed:**
+
+===================================
+Compare the expression profile of samples using correlations
+===================================
+
+
+
+===================================
+Files needed:
+===================================
 
 We will need the same files as in the tutorial 4.1:   `Edit <http://help.gitools.org/xwiki/bin/create/..%2F..%2F..%2F..%2F./%2Fbin%2Fedit%2FTutorials%2FTutorial41%3Fsection%3D2?parent=xwiki%3ATutorials.Tutorial42>`__
 
@@ -35,9 +43,11 @@ We will need the same files as in the tutorial 4.1:   `Edit <http://help.gitool
 
 `Gene Atlas sample annotations <url('file:/usr/local/gitools/help/xwiki-enterprise-jetty-hsqldb-2.5/jetty/work/Jetty_0_0_0_0_8888_xwiki__xwiki__snanx9/xZCwRsUx/Tutorials.Tutorial41.gse1133-annotation-full.tsv')>`__  which contains the annotation of samples.
 
-| 
 
-**Perform correlation analysis**
+
+===================================
+Perform correlation analysis
+===================================
 
 See  `this chapter <UserGuide_Correlations.rst>`__  for details on how to perform correlation analysis
 
@@ -49,9 +59,11 @@ Apply correlation to columns (as we want to correlate samples)
 
 Give a name to the analysis. Select a directory where to safe it and click Finish.
 
-| 
 
-**Colour the columns and rows according to the class label of the tissue samples and order them**
+
+===================================
+Colour the columns and rows according to the class label of the tissue samples and order them
+===================================
 
 In the analysis details tab, click on “heatmap” under “Results” to view the heatmap of the results.
 
@@ -67,8 +79,10 @@ Sort the samples by class by selecting Data>Sort>Sort by label and select column
 
 Change the width of the cells in properties/cells to be able to see all the samples in the window and uncheck the option to show the columns grid.
 
-| 
 
-**Explore the results**
 
-| 
+===================================
+Explore the results
+===================================
+
+
