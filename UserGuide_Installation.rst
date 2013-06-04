@@ -1,6 +1,6 @@
-
 **Installation**
 
+.. contents::
 
 There are different ways to get Gitools running:
 
