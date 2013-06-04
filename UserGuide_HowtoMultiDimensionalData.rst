@@ -41,9 +41,10 @@ This is an example with three columns and two rows. Each cell has three data val
 **Browse in Gitools**
 `#  <#N1011C>`__
 
-.. figure:: img/gitools-cell-properties.png
-   :scale: 50 %
-   :alt: map to buried treasure 
+.. image:: img/gitools-cell-properties.png
+   :width: 400 px
+   :align: right
+   :alt: Gitools screenshot 
    
 Select the option *File -> Open -> Heatmap*
 
