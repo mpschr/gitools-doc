@@ -1,15 +1,13 @@
 
 
-===================================
 Tutorial 5.1. Regulatory Modules enrichment analysis
-===================================
+-------------------------------------------------
 
 
 
 
-===================================
 Table of Contents
-===================================
+-------------------------------------------------
 
 `Study the misregulation in different cancer types of modules derived from binding experiments such as ChIP-sequencing <#N10037>`__  `#  <#N10037>`__
 
@@ -27,9 +25,8 @@ Table of Contents
 
 
 
-===================================
 Study the misregulation in different cancer types of modules derived from binding experiments such as ChIP-sequencing
-===================================
+-------------------------------------------------
 
 
 
@@ -41,9 +38,8 @@ Set of genes (module) experimentally found to be bound by specific transcription
 
 
 
-===================================
 Perform enrichment analysis
-===================================
+-------------------------------------------------
 
 See  `this tutorial <url('file:/usr/local/gitools/help/xwiki-enterprise-jetty-hsqldb-2.5/jetty/work/Jetty_0_0_0_0_8888_xwiki__xwiki__snanx9/eK8qnQ17/Tutorials.WebHome.tutorial13runenrichmentIntOGenKEGG.pdf')>`__  for details on how to perform enrichment analysis.
 
@@ -59,9 +55,8 @@ If you have a memory problem, see memory configuration in (  `Installation  <U
 
 
 
-===================================
 Use annotations for cancer types
-===================================
+-------------------------------------------------
 
 In the analysis details tab, click on “heatmap” under “Results” to view the heatmap of the results.
 
@@ -73,8 +68,7 @@ Change the width of the cells in properties/cells to be able to see all the samp
 
 
 
-===================================
 Explore the results
-===================================
+-------------------------------------------------
 
 

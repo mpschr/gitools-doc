@@ -1,24 +1,21 @@
 
 
-===================================
 Export heatmap data
-===================================
+-------------------------------------------------
 
 XWikiGuest
 
 
 
-===================================
 Table of Contents
-===================================
+-------------------------------------------------
 
 
 
 
 
-===================================
 Labels
-===================================
+-------------------------------------------------
 
 When editing a heatmap the visible or hidden row or column labels can be exported as a list in a plain text file. This list can be used in the future to filter other heatmaps by label.
 
@@ -26,9 +23,8 @@ Go to *File --> Export --> Export labels ...*
 
 
 
-===================================
 Data
-===================================
+-------------------------------------------------
 
 When editing a heatmap the user can export the heatmap data contents in two ways:
 

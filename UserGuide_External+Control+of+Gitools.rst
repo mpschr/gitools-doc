@@ -1,16 +1,14 @@
 
 
-===================================
 External Control of Gitools
-===================================
+-------------------------------------------------
 
 Michael P Schroeder
 
 
 
-===================================
 Table of Contents
-===================================
+-------------------------------------------------
 
 `Overview of commands <#N10049>`__  `#  <#N10049>`__
 
@@ -26,25 +24,20 @@ Gitools is listening to the port **50151** by default. So it is possible to send
 
 
 
-===================================
 Overview of commands
-===================================
+-------------------------------------------------
 
-===================================
 Command 
-===================================
+-------------------------------------------------
 
-===================================
 Description 
-===================================
+-------------------------------------------------
 
-===================================
 Options 
-===================================
+-------------------------------------------------
 
-===================================
 as of version 
-===================================
+-------------------------------------------------
 
 **load **\ matrix-file 
 
@@ -56,9 +49,8 @@ as of version 
 
  1.7.0
 
-===================================
 version
-===================================
+-------------------------------------------------
 
  Responds Gitools version
 
@@ -68,31 +60,27 @@ version
 
 
 
-===================================
 How to send a command to Gitols
-===================================
+-------------------------------------------------
 
 There is several ways to send the commands listed above to Gitools. We will make three examples here:
 
-===================================
 Command line
-===================================
+-------------------------------------------------
 
 With a terminal application that lets you execute command line you can create a new Gitools instance with command to execute upon startup.
 
 $ gitools load /home/user/matrix-file.tdm --cols /home/user/col-annotations.tsv --rows /home/user/row-annotations.tsv 
 
-===================================
 HTTP
-===================================
+-------------------------------------------------
 
 By HTTP it is possible to send the command like this:
 
 $ http://localhost:50151/load?file =/home/user/matrix-file.tdm&cols =/home/user/col-annotations.tsv&rows =/home/user/row-annotations.tsv 
 
-===================================
 Python
-===================================
+-------------------------------------------------
 
 Python or any other programming environment can make use of the  `Telnet <http://en.wikipedia.org/wiki/Telnet>`__  internet protocol. See below to understand how python can connect to Gitools and send it a command.
 

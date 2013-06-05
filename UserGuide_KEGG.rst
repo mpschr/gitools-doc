@@ -1,15 +1,13 @@
 
 
-===================================
 KEGG
-===================================
+-------------------------------------------------
 
 
 
 
-===================================
 Table of Contents
-===================================
+-------------------------------------------------
 
 `Downloading the modules <#N10073>`__  `#  <#N10073>`__
 
@@ -21,37 +19,32 @@ KEGG is an integrated database resource consisting of 16 main databases, broadly
 
 In Gitools we allow to retrieve information about KEGG Pathways and to translate KEGG identifiers to other categories of identifiers using Ensembl database. So you can download pathways modules for gene symbols or for some affymetrix platform probe sets as far as the translation information is available in Ensembl. You can also retrieve this information for any organism available in either KEGG and Ensembl databases.
 
-===================================
 Select category and version
-===================================
+-------------------------------------------------
 
 In the first step you select the modules to download (only pathways are available by now) and the version of Ensembl to use for the translation of identifiers.
 
-===================================
 Select organism
-===================================
+-------------------------------------------------
 
 The wizard will retrieve all the organisms available from KEGG and Ensembl databases and they will be shown in a selection box.
 
 The user has to select one before continuing. There is a filter box that allow to reduce the long list of organisms by using keywords.
 
-===================================
 Select identifiers
-===================================
+-------------------------------------------------
 
 The category of identifiers for the genes or other elements of your interest can be selected in this step. Only the identifiers available for the selected organism in either KEGG or Ensembl databases will be shown.
 
-===================================
 Select destination
-===================================
+-------------------------------------------------
 
 In this page you can select the name prefix for the files generated, the folder where they will be created and the file format.
 
 
 
-===================================
 Downloading the modules
-===================================
+-------------------------------------------------
 
 Once all the parameters are selected and the user clicks on *Finish* button it starts downloading data from different sources in several steps depending on which module category, organism, and feature identifiers have been selected.
 

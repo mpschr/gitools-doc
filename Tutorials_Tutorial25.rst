@@ -1,15 +1,13 @@
 
 
-===================================
 Tutorial 2.5: Overlapping analysis
-===================================
+-------------------------------------------------
 
 
 
 
-===================================
 Table of Contents
-===================================
+-------------------------------------------------
 
 `Compare the overlapping of significantly up-regulated genes in our experiment and in other lung experiments imported from IntOGen. <#N10037>`__  `#  <#N10037>`__
 
@@ -29,15 +27,13 @@ Table of Contents
 
 
 
-===================================
 Compare the overlapping of significantly up-regulated genes in our experiment and in other lung experiments imported from IntOGen.
-===================================
+-------------------------------------------------
 
 
 
-===================================
 Files needed
-===================================
+-------------------------------------------------
 
 The files needed for this tutorial are the same as the ones for tutorial 2.4.
 
@@ -49,9 +45,8 @@ The files needed for this tutorial are the same as the ones for tutorial 2.4.
 
 
 
-===================================
 Run overlapping analysis
-===================================
+-------------------------------------------------
 
 See  `this chapter <UserGuide_Overlaps.rst>`__  for details on how to perform overlapping analysis
 
@@ -67,9 +62,8 @@ Select a destination folder and file name and click Finish.
 
 
 
-===================================
 Change labels of rows and columns
-===================================
+-------------------------------------------------
 
 In properties/columns, select the file “intogen-lung-upreg-columns.tsv.gz” and choose “authors” and “year” as label to show in the columns instead of the id of the experiment.
 
@@ -77,16 +71,14 @@ Do the same for rows.
 
 
 
-===================================
 Change the value to be displayed in the heatmap
-===================================
+-------------------------------------------------
 
 In properties/cells, select the value “Row only proportions” to show in colors the proportion of genes in the experiment of the column that are up-regulated in the experiment of the row.
 
 
 
-===================================
 Explore the results
-===================================
+-------------------------------------------------
 
 

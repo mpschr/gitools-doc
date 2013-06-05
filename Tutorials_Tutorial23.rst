@@ -1,15 +1,13 @@
 
 
-===================================
 Tutorial 2.3. Identifying significantly upregulated genes
-===================================
+-------------------------------------------------
 
 
 
 
-===================================
 Table of Contents
-===================================
+-------------------------------------------------
 
 `Run Oncodrive to identify the genes that are significantly up-regulated taking into account a set of tumour samples <#N10037>`__  `#  <#N10037>`__
 
@@ -27,23 +25,20 @@ Table of Contents
 
 
 
-===================================
 Run Oncodrive to identify the genes that are significantly up-regulated taking into account a set of tumour samples
-===================================
+-------------------------------------------------
 
 
 
-===================================
 Files needed
-===================================
+-------------------------------------------------
 
 `gse19188\_l2r-cancer-vs-normal.cdm.gz <http://www.gitools.org/tutorials/data/gse19188_l2r-cancer-vs-normal.cdm.gz>`__ : which contains log2 ratios of tumour samples versus normal controls.
 
 
 
-===================================
 Run Oncodrive analysis
-===================================
+-------------------------------------------------
 
 See  `this chapter <UserGuide_Oncodrive.rst>`__  for details on how to run an Oncodrive analysis
 
@@ -61,9 +56,8 @@ In the analysis details tab, click on “heatmap” under “Results” to view 
 
 
 
-===================================
 Import annotations for probes using Gitools
-===================================
+-------------------------------------------------
 
 Import Ensembl gene ids, symbol and description for probes in the Affymetrix HG U133 Plus 2 platform.
 
@@ -87,8 +81,7 @@ Alternatively, you can download the Affymetrix HG U133 Plus 2 ids from here:\ `h
 
 
 
-===================================
 Explore the results
-===================================
+-------------------------------------------------
 
 

@@ -1,6 +1,5 @@
-===================================
 Installation
-===================================
+-------------------------------------------------
 
 .. contents::
 
@@ -19,9 +18,8 @@ Therefore, see the following chapters:
 
 
 
-===================================
 Java Web Start
-===================================
+-------------------------------------------------
 
 Java Web Start is a technology that allows running Java applications directly from the web. This method is very convenient to evaluate the tool, but when used for daily work and to use big amounts of data is better to install it manually.
 
@@ -33,9 +31,8 @@ javaws http://webstart.gitools.org/default/gitools.jnlp
 
 
 
-===================================
 Installing locally
-===================================
+-------------------------------------------------
 
 You can download the last version of Gitools from  `http://www.gitools.org/download.php <http://www.gitools.org/download.php>`__
 
@@ -57,9 +54,8 @@ Linux: ** gitools**
 
 If you want to be able to execute Gitools commands from the terminal you will need to configure the way your operating system finds commands from the terminal (usually it is an enviroment variable called *PATH*). Read the detailed installation instructions for your operating system below:
 
-===================================
 Windows
-===================================
+-------------------------------------------------
 
 You need to have java installed. Go to this website to download and install;  `http://www.java.com/en/download/You <http://www.java.com/en/download/You>`__
 
@@ -69,9 +65,8 @@ You need to add the path of the Gitools bin directory also  in order to run the
 
 To run the Gitools; just click on the gitools.bat file. You can make a shortcut for this file by righclick and say send to ‘desktop’ and it will creat a shortcut on your desktop for future use.
 
-===================================
 Linux
-===================================
+-------------------------------------------------
 
 Imagine that you have uncompressed the zip file into * /opt/gitools-1.5.0-bin*, then you can define the *PATH* variable in the **~/.bashrc** file adding a line like this:
 
@@ -81,9 +76,8 @@ Start a new terminal and you should be able to run Gitools graphical interface t
 
 gitools
 
-===================================
 Mac OS X
-===================================
+-------------------------------------------------
 
 Imagine that you have uncompressed the zip file into */opt/gitools-1.5.0-bin*, then you can define the *PATH* variable in the **~/.profile** file adding a line like this:
 
@@ -95,9 +89,8 @@ gitools
 
 
 
-===================================
 Memory configuration
-===================================
+-------------------------------------------------
 
 Gitools is a Java application, and by default it starts with the default memory requirements stablished by most of the Java applications (usually 256 Megabytes). But most probably you will need more than the default, you will realize this when you obtain an exception like this:
 
@@ -105,9 +98,8 @@ Gitools is a Java application, and by default it starts with the default memory 
 
 There is a way to configure the memory limits for Gitools the same way that Java does, using the option *-Xmx*. But this configuration should be specified through an enviroment variable called **GITOOLS\_JAVA\_OPTS**. Let’s see some examples of how to do this with different operating systems:
 
-===================================
 Windows
-===================================
+-------------------------------------------------
 
 Right-click the **My Computer** icon on
 
@@ -125,9 +117,8 @@ Click OK.
 
 Click Apply Changes.
 
-===================================
 Linux
-===================================
+-------------------------------------------------
 
 Imagine that you want to use 1024 megabytes of memory for Gitools, then edit the **~/.bashrc** file adding a line like this:
 
@@ -137,9 +128,8 @@ You can also specify 2 gigabytes like this:
 
 export GITOOLS\_JAVA\_OPTS = ’-Xmx2g’
 
-===================================
 Mac OS X
-===================================
+-------------------------------------------------
 
 Imagine that you want to use 1024 megabytes of memory for Gitools, then edit the **~/.profile** file adding a line like this:
 
@@ -151,8 +141,7 @@ export GITOOLS\_JAVA\_OPTS =”-Xmx2g”
 
 
 
-===================================
 Source code
-===================================
+-------------------------------------------------
 
 Go  `here <https://bg.upf.edu/forge/projects/gitools/wiki>`__  to know how to download the source code and compile it.

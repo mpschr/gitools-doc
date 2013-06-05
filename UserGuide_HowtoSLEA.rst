@@ -1,15 +1,13 @@
 
 
-===================================
 How to run SLEA in Gitools
-===================================
+-------------------------------------------------
 
 
 
 
-===================================
 Table of Contents
-===================================
+-------------------------------------------------
 
 `Sample Level Enrichment Analysis (SLEA) using Gitools <#N10037>`__  `#  <#N10037>`__
 
@@ -25,17 +23,15 @@ Table of Contents
 
 
 
-===================================
 Sample Level Enrichment Analysis (SLEA) using Gitools
-===================================
+-------------------------------------------------
 
 SLEA is a method to analyse the transcriptional status of gene modules (gene sets) per sample in a transcriptomic dataset. The results are presented in the form of interactive heatmaps which facilitates their interpretation. It can be used to identify tumor subtypes, correlate molecular features with clinical features and study relationship between modules.
 
 
 
-===================================
 Files needed
-===================================
+-------------------------------------------------
 
 **Normalized expression matrices**. See for example  `”expression matrices used in Gundem and Lopez-Bigas 2012” <http://bg.upf.edu/slea/datasets/experiments>`__  which contains median-centered log-intensity values divided by standard deviation for 12 datasets.
 
@@ -45,9 +41,8 @@ Files needed
 
 
 
-===================================
 Perform an enrichment analysis with Gitools
-===================================
+-------------------------------------------------
 
 See  `this chapter <UserGuide_Enrichment.rst>`__  for details on how to perform enrichment analysis
 
@@ -65,9 +60,8 @@ If you have a memory problem, see memory configuration in  `this chapter <UserG
 
 
 
-===================================
 Explore the results
-===================================
+-------------------------------------------------
 
 The results are presented in the form of interactive heatmaps.
 

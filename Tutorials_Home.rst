@@ -1,16 +1,14 @@
 
 
-===================================
 Tutorials
-===================================
+-------------------------------------------------
 
 Michael P Schroeder
 
 
 
-===================================
 Table of Contents
-===================================
+-------------------------------------------------
 
 `CASE STUDY 1: Finding the Biological Processes enriched among genes significantly up-regulated in different types of cancer <#N10082>`__  `#  <#N10082>`__
 
@@ -40,9 +38,8 @@ Table of Contents
 
 
 
-===================================
 CASE STUDY 1: Finding the Biological Processes enriched among genes significantly up-regulated in different types of cancer
-===================================
+-------------------------------------------------
 
 
 
@@ -88,9 +85,8 @@ Export the results of the enrichment analysis as an image and as a table contain
 
 
 
-===================================
 CASE STUDY 2: Studying the expression profile of 156 lung tumors and adjacent normal lung tissue samples
-===================================
+-------------------------------------------------
 
 
 
@@ -129,9 +125,8 @@ Compare the overlap of significantly up-regulated genes in our experiment and in
 
 
 
-===================================
 CASE STUDY 3: Functional protein divergence in the evolution of Homo sapiens
-===================================
+-------------------------------------------------
 
 
 
@@ -142,9 +137,8 @@ Analyse the conservation patterns of genes involved in different biological proc
 
 
 
-===================================
 CASE STUDY 4: Studying the regulatory programs governing the expression in different tissues
-===================================
+-------------------------------------------------
 
 
 
@@ -162,9 +156,8 @@ Compare the expression pattern of genes expressed in different tissues     
 
 
 
-===================================
 CASE STUDY 5: Experimental regulatory modules in cancer
-===================================
+-------------------------------------------------
 
 
 
@@ -175,9 +168,8 @@ Study the misregulation in different cancer types of modules derived from bindin
 
 
 
-===================================
 CASE STUDY 6: Studying multi-dimensional cancer data with Gitools
-===================================
+-------------------------------------------------
 
 The videos we have put online for this case study we are accessible on Youtube.
 

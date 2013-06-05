@@ -1,15 +1,13 @@
 
 
-===================================
 Tutorial 4.2. Correlation of expression patterns in different tissues
-===================================
+-------------------------------------------------
 
 
 
 
-===================================
 Table of Contents
-===================================
+-------------------------------------------------
 
 `Compare the expression profile of samples using correlations <#N10037>`__  `#  <#N10037>`__
 
@@ -27,15 +25,13 @@ Table of Contents
 
 
 
-===================================
 Compare the expression profile of samples using correlations
-===================================
+-------------------------------------------------
 
 
 
-===================================
 Files needed:
-===================================
+-------------------------------------------------
 
 We will need the same files as in the tutorial 4.1:   `Edit <http://help.gitools.org/xwiki/bin/create/..%2F..%2F..%2F..%2F./%2Fbin%2Fedit%2FTutorials%2FTutorial41%3Fsection%3D2?parent=xwiki%3ATutorials.Tutorial42>`__
 
@@ -45,9 +41,8 @@ We will need the same files as in the tutorial 4.1:   `Edit <http://help.gitool
 
 
 
-===================================
 Perform correlation analysis
-===================================
+-------------------------------------------------
 
 See  `this chapter <UserGuide_Correlations.rst>`__  for details on how to perform correlation analysis
 
@@ -61,9 +56,8 @@ Give a name to the analysis. Select a directory where to safe it and click Finis
 
 
 
-===================================
 Colour the columns and rows according to the class label of the tissue samples and order them
-===================================
+-------------------------------------------------
 
 In the analysis details tab, click on “heatmap” under “Results” to view the heatmap of the results.
 
@@ -81,8 +75,7 @@ Change the width of the cells in properties/cells to be able to see all the samp
 
 
 
-===================================
 Explore the results
-===================================
+-------------------------------------------------
 
 

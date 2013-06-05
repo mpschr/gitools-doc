@@ -1,15 +1,13 @@
 
 
-===================================
 Tutorial 2.4: Compare and combine experiments
-===================================
+-------------------------------------------------
 
 
 
 
-===================================
 Table of Contents
-===================================
+-------------------------------------------------
 
 `Compare and combine the significantly up-regulated genes in our experiment and in other lung experiments imported from IntOGen <#N10037>`__  `#  <#N10037>`__
 
@@ -29,15 +27,13 @@ Table of Contents
 
 
 
-===================================
 Compare and combine the significantly up-regulated genes in our experiment and in other lung experiments imported from IntOGen
-===================================
+-------------------------------------------------
 
 
 
-===================================
 Files needed
-===================================
+-------------------------------------------------
 
 `intogen\_lung\_upreg\_plus\_gse19188.cdm.gz <http://www.gitools.org/tutorials/data/intogen_lung_upreg_plus_gse19188.cdm.gz>`__ : matrix file containing p-values for upregulation per gene for 11 experiments imported from IntOGen and the experiment from Hou et al. that we analyzed in the previous tutorial.
 
@@ -47,9 +43,8 @@ Files needed
 
 
 
-===================================
 Import p-value matrix from IntOGen for up-regulation in various independent lung cancer experiments.
-===================================
+-------------------------------------------------
 
 For this tutorial, we provide the matrix file containing p-values for these lung experiments plus the result of the oncodrive analysis in tutorial 2.3, after mapping probes to genes, see files above.
 
@@ -57,9 +52,8 @@ See  `this chapter <UserGuide_IntOGen.rst>`__  of the user guide to learn how 
 
 
 
-===================================
 Open heatmap and change scale and labels
-===================================
+-------------------------------------------------
 
 File>Open>Heatmap… and select the file intogen\_lung\_upreg\_plus\_gse19188.cdm.gz. 
 
@@ -75,9 +69,8 @@ Select all the rows and sort to have the most significantly up-regulated genes i
 
 
 
-===================================
 Combine
-===================================
+-------------------------------------------------
 
 To combine the p-values of all the lung cancer experiments, select Analysis>Combinations. 
 
@@ -91,8 +84,7 @@ Click Next and Finish.
 
 
 
-===================================
 Explore the results
-===================================
+-------------------------------------------------
 
 

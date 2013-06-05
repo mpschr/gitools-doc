@@ -1,15 +1,13 @@
 
 
-===================================
 Tutorial 4.1. TFBS enrichment analysis
-===================================
+-------------------------------------------------
 
 
 
 
-===================================
 Table of Contents
-===================================
+-------------------------------------------------
 
 `Identify regulatory modules which are differentially expressed in various human tissues <#N1003B>`__  `#  <#N1003B>`__
 
@@ -27,17 +25,15 @@ Table of Contents
 
 
 
-===================================
 Identify regulatory modules which are differentially expressed in various human tissues
-===================================
+-------------------------------------------------
 
 We will use the GeneAtlas dataset, which is a collection of expression data for 72 samples from different human normal tissues, plus 7 malignant tissues, from  `Su et al 2004 <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC395923/?tool=pubmed>`__  and we will test if genes expressed in different tissues are enriched by genes with particular Transcription Factor Biding Sites (TFBS) in their promoters.
 
 
 
-===================================
 Files needed
-===================================
+-------------------------------------------------
 
 `Gene Atlas expression in Entrez IDS <url('file:/usr/local/gitools/help/xwiki-enterprise-jetty-hsqldb-2.5/jetty/work/Jetty_0_0_0_0_8888_xwiki__xwiki__snanx9/oho6EnL9/Tutorials.Tutorial41.gse1133-entrez-log2-abs-reading.mediancentered.cdm.gz')>`__  which contains median-centered log-intensity values divided by standard deviation for 79 tissues.
 
@@ -47,9 +43,8 @@ Files needed
 
 
 
-===================================
 Perform an enrichment analysis with Gitools
-===================================
+-------------------------------------------------
 
 See  `this chapter <UserGuide_Enrichment.rst>`__  for details on how to perform enrichment analysis
 
@@ -67,9 +62,8 @@ If you have a memory problem, see “Memory configuration” in the “User Guid
 
 
 
-===================================
 Use annotation colours for samples
-===================================
+-------------------------------------------------
 
 In the analysis details tab, click on “heatmap” under “Results” to view the heatmap of the results.
 
@@ -87,8 +81,7 @@ Change the width of the cells in properties/cells to be able to see all the samp
 
 
 
-===================================
 Explore the results
-===================================
+-------------------------------------------------
 
 

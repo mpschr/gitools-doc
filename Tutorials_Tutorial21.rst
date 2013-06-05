@@ -1,15 +1,13 @@
 
 
-===================================
 Tutorial 2.1. Sample Level Enrichment Analysis (SLEA) with KEGG pathways
-===================================
+-------------------------------------------------
 
 
 
 
-===================================
 Table of Contents
-===================================
+-------------------------------------------------
 
 `Identify pathways which genes are differentially expressed in various groups of samples <#N10037>`__  `#  <#N10037>`__
 
@@ -29,17 +27,15 @@ Table of Contents
 
 
 
-===================================
 Identify pathways which genes are differentially expressed in various groups of samples
-===================================
+-------------------------------------------------
 
 We will use a data set containing 156 non-small cell lung carcinomas and adjacent normal lung tissue sample from  `Hou et al 2010 <http://www.plosone.org/article/info:doi/10.1371/journal.pone.0010312>`__ .
 
 
 
-===================================
 Files needed
-===================================
+-------------------------------------------------
 
 `gse19188\_median-centered.cdm.gz <http://www.gitools.org/tutorials/data/gse19188_median-centered.cdm.gz>`__  which contains median-centered log-intensity values divided by standard deviation for 156 samples.
 
@@ -47,9 +43,8 @@ Files needed
 
 
 
-===================================
 Import human KEGG pathway modules using Gitools
-===================================
+-------------------------------------------------
 
 Import human KEGG pathways. See  `this chapter <UserGuide_KEGG.rst>`__  of the user guide for further guidance.
 
@@ -61,9 +56,8 @@ Alternatively download the KEGG pathways module map and annotations from here:\ 
 
 
 
-===================================
 Perform an enrichment analysis with Gitools
-===================================
+-------------------------------------------------
 
 See  `this chapter <UserGuide_Enrichment.rst>`__  for details on how to perform enrichment analysis
 
@@ -81,9 +75,8 @@ If you have a memory problem, see memory configuration in (  `Installation Guid
 
 
 
-===================================
 Use annotations for pathways and annotation colors for samples
-===================================
+-------------------------------------------------
 
 In the analysis details tab, click on “heatmap” under “Results” to view the heatmap of the results.
 
@@ -101,8 +94,7 @@ Change the width of the cells in properties/cells to be able to see all the samp
 
 
 
-===================================
 Explore the results
-===================================
+-------------------------------------------------
 
 

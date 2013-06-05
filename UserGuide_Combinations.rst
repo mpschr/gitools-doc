@@ -1,15 +1,13 @@
 
 
-===================================
 Combination of p-values
-===================================
+-------------------------------------------------
 
 
 
 
-===================================
 Table of Contents
-===================================
+-------------------------------------------------
 
 `Wizard steps to perform a combination analysis <#N1003A>`__  `#  <#N1003A>`__
 
@@ -23,9 +21,8 @@ When several experiments testing the same hypothesis are analysed, a natural que
 
 
 
-===================================
 Wizard steps to perform a combination analysis
-===================================
+-------------------------------------------------
 
 Before running the analysis you should have this data prepared in files:
 
@@ -35,9 +32,8 @@ To start the wizard go to the menu *File > New > Analysis > Combination analysis
 
 You can also start a combination analysis from an opened heatmap by selecting the menu *Analysis > Combination.*
 
-===================================
 Presentation and example
-===================================
+-------------------------------------------------
 
 
 
@@ -45,17 +41,15 @@ If you select the option **Fill this wizard with an example** all the following 
 
 You can avoid this first presentation page by selecting the option **Don’t show this page next time**.
 
-===================================
 Selection of the data to analyze
-===================================
+-------------------------------------------------
 
 
 
 If you follow the conventions on file formats explained  `here <UserGuide_LoadingData.rst>`__  then simply click on the button [Browse] and select the file containing the data to analyze. The format selector will recognize the extension of the file. If your data file doesn’t have a known file extension then you should specify which is the format of the file.
 
-===================================
 Configure combination options
-===================================
+-------------------------------------------------
 
 
 
@@ -65,17 +59,15 @@ Configure combination options
 
 The option **Apply to** allows to select whether to combine by columns or rows.
 
-===================================
 Selection of the destination file
-===================================
+-------------------------------------------------
 
 
 
 This wizard page allows to specify the prefix name for the files generated during the analysis and the folder where they will be created. The text in name and folder can be freely edited but it is also possible to navigate through the system folders in order to select an existing file by pressing the button [Browse].
 
-===================================
 Analysis details
-===================================
+-------------------------------------------------
 
 
 
@@ -85,9 +77,8 @@ It is possible to specify free attributes for the analysis as Organization, Oper
 
 
 
-===================================
 Exploring the results of the analysis
-===================================
+-------------------------------------------------
 
 After performing the analysis a new editor with the details of the analysis will be opened:
 

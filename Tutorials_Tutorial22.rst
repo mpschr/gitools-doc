@@ -1,15 +1,13 @@
 
 
-===================================
 Tutorial 2.2. Expression profiles correlations
-===================================
+-------------------------------------------------
 
 
 
 
-===================================
 Table of Contents
-===================================
+-------------------------------------------------
 
 `Compare the expression profile of samples using correlations <#N10037>`__  `#  <#N10037>`__
 
@@ -27,15 +25,13 @@ Table of Contents
 
 
 
-===================================
 Compare the expression profile of samples using correlations
-===================================
+-------------------------------------------------
 
 
 
-===================================
 Files needed:
-===================================
+-------------------------------------------------
 
 We will need the same files as in the tutorial 2.1:
 
@@ -45,9 +41,8 @@ We will need the same files as in the tutorial 2.1:
 
 
 
-===================================
 Perform correlation analysis
-===================================
+-------------------------------------------------
 
 See  `this chapter <UserGuide_Correlations.rst>`__  for details on how to perform correlation analysis
 
@@ -61,9 +56,8 @@ Give a name to the analysis. Select a directory where to safe it and click Finis
 
 
 
-===================================
 Color the columns and rows according to the histology label of the samples and order them
-===================================
+-------------------------------------------------
 
 In the analysis details tab, click on “heatmap” under “Results” to view the heatmap of the results.
 
@@ -79,8 +73,7 @@ Change the width and height of the cells in properties/cells to be able to see a
 
 
 
-===================================
 Explore the results
-===================================
+-------------------------------------------------
 
 
