@@ -1,27 +1,7 @@
 
-
+==================
 Tutorials
--------------------------------------------------
-
-Michael P Schroeder
-
-
-
-Table of Contents
--------------------------------------------------
-
-`CASE STUDY 1: Finding the Biological Processes enriched among genes significantly up-regulated in different types of cancer <#N10082>`__  `#  <#N10082>`__
-
-`CASE STUDY 2: Studying the expression profile of 156 lung tumors and adjacent normal lung tissue samples <#N10143>`__  `#  <#N10143>`__
-
-`CASE STUDY 3: Functional protein divergence in the evolution of Homo sapiens <#N101E6>`__  `#  <#N101E6>`__
-
-`CASE STUDY 4: Studying the regulatory programs governing the expression in different tissues <#N1020D>`__  `#  <#N1020D>`__
-
-`CASE STUDY 5: Experimental regulatory modules in cancer <#N10255>`__  `#  <#N10255>`__
-
-`CASE STUDY 6: Studying multi-dimensional cancer data with Gitools <#N1027F>`__  `#  <#N1027F>`__
-
+==================
 
 
 `CASE STUDY 1: Finding the Biological Processes enriched among genes significantly up-regulated in different types of cancer <#HCASESTUDY1:FindingtheBiologicalProcesse>`__
@@ -39,7 +19,7 @@ Table of Contents
 
 
 CASE STUDY 1: Finding the Biological Processes enriched among genes significantly up-regulated in different types of cancer
--------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -86,7 +66,7 @@ Export the results of the enrichment analysis as an image and as a table contain
 
 
 CASE STUDY 2: Studying the expression profile of 156 lung tumors and adjacent normal lung tissue samples
--------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -126,54 +106,54 @@ Compare the overlap of significantly up-regulated genes in our experiment and in
 
 
 CASE STUDY 3: Functional protein divergence in the evolution of Homo sapiens
--------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
 
-Analyse the conservation patterns of genes involved in different biological processes                                                                          
+Analyse the conservation patterns of genes involved in different biological processes                                                                          
 
 
 
 
 
 CASE STUDY 4: Studying the regulatory programs governing the expression in different tissues
--------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
 
-Identify the transcription factors involved in the regulation of expression in different tissues                                                                       
+Identify the transcription factors involved in the regulation of expression in different tissues                                                                       
 
 
 
 
 
 
-Compare the expression pattern of genes expressed in different tissues                                                                                                                                              
+Compare the expression pattern of genes expressed in different tissues                                                                                                                                              
 
 
 
 
 
 CASE STUDY 5: Experimental regulatory modules in cancer
--------------------------------------------------
+--------------------------------------------------------------------------------------------------
 
 
 
 
-Study the misregulation in different cancer types of modules derived from binding experiments such as ChIP-sequencing                                                                       
+Study the misregulation in different cancer types of modules derived from binding experiments such as ChIP-sequencing                                                                       
 
 
 
 
 
 CASE STUDY 6: Studying multi-dimensional cancer data with Gitools
--------------------------------------------------
+--------------------------------------------------------------------------------------------------
 
 The videos we have put online for this case study we are accessible on Youtube.
 
-**Watch the whole case study as a **\ `**YouTube playlist** <http://www.youtube.com/playlist?list=PLE1820A1F67A7407E&feature=view_all>`__
+**Watch the whole case study as a **\ `**YouTube playlist** <http://www.youtube.com/playlist?list=PLE1820A1F67A7407E&feature=view_all>`__
 
 
 
